@@ -1,9 +1,9 @@
 def my_hash_creator(key, value)
- { :id => "age"}
+ { :name => "Grace Hopper"}
 end
 
 def read_from_hash(hash, key)
-  # return the correct value using the hash and key parameters
+  { :location => "New York City"}
 end
 
 def update_counting_hash(hash, key)
